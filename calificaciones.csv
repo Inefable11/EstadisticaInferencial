@@ -1,0 +1,1001 @@
+﻿Estudiante,Escuela,Metodo,ExitoPrevio,ExitoActual
+1,Mi pequeño gigante,ABP,75,82
+2,Mi pequeño gigante,ABP,68,79
+3,Mi pequeño gigante,Competencias,72,85
+4,Mi pequeño gigante,Competencias,65,78
+5,Mi pequeño gigante,ABP,80,88
+6,Mi pequeño gigante,Competencias,74,82
+7,Santa Rita,ABP,85,90
+8,Santa Rita,ABP,82,88
+9,Santa Rita,Competencias,88,92
+10,Santa Rita,Competencias,80,86
+11,Santa Rita,ABP,90,94
+12,Santa Rita,Competencias,86,91
+13,Mi pequeño gigante,ABP,78,85
+14,Mi pequeño gigante,ABP,72,80
+15,Mi pequeño gigante,Competencias,76,84
+16,Mi pequeño gigante,Competencias,70,78
+17,Mi pequeño gigante,ABP,82,90
+18,Mi pequeño gigante,Competencias,75,82
+19,Santa Rita,ABP,87,92
+20,Santa Rita,ABP,84,90
+21,Santa Rita,Competencias,90,95
+22,Santa Rita,Competencias,82,88
+23,Santa Rita,ABP,92,97
+24,Santa Rita,Competencias,88,93
+25,Mi pequeño gigante,ABP,79,86
+26,Mi pequeño gigante,ABP,73,80
+27,Mi pequeño gigante,Competencias,77,83
+28,Mi pequeño gigante,Competencias,71,79
+29,Mi pequeño gigante,ABP,83,89
+30,Mi pequeño gigante,Competencias,76,83
+31,Santa Rita,ABP,88,93
+32,Santa Rita,ABP,85,91
+33,Santa Rita,Competencias,91,96
+34,Santa Rita,Competencias,83,89
+35,Santa Rita,ABP,93,98
+36,Santa Rita,Competencias,89,94
+37,Mi pequeño gigante,ABP,80,87
+38,Mi pequeño gigante,ABP,74,81
+39,Mi pequeño gigante,Competencias,78,85
+40,Mi pequeño gigante,Competencias,72,80
+41,Mi pequeño gigante,ABP,84,91
+42,Mi pequeño gigante,Competencias,77,84
+43,Santa Rita,ABP,89,94
+44,Santa Rita,ABP,86,92
+45,Santa Rita,Competencias,92,97
+46,Santa Rita,Competencias,84,90
+47,Santa Rita,ABP,94,99
+48,Santa Rita,Competencias,90,95
+49,Mi pequeño gigante,ABP,81,88
+50,Mi pequeño gigante,ABP,75,82
+51,Mi pequeño gigante,Competencias,79,86
+52,Mi pequeño gigante,Competencias,73,81
+53,Mi pequeño gigante,ABP,85,92
+54,Mi pequeño gigante,Competencias,78,85
+55,Santa Rita,ABP,90,95
+56,Santa Rita,ABP,87,93
+57,Santa Rita,Competencias,93,98
+58,Santa Rita,Competencias,85,91
+59,Santa Rita,ABP,95,100
+60,Santa Rita,Competencias,91,96
+61,Mi pequeño gigante,ABP,82,89
+62,Mi pequeño gigante,ABP,76,83
+63,Mi pequeño gigante,Competencias,80,87
+64,Mi pequeño gigante,Competencias,74,82
+65,Mi pequeño gigante,ABP,86,93
+66,Mi pequeño gigante,Competencias,79,86
+67,Santa Rita,ABP,91,96
+68,Santa Rita,ABP,88,94
+69,Santa Rita,Competencias,94,99
+70,Santa Rita,Competencias,86,92
+71,Santa Rita,ABP,96,100
+72,Santa Rita,Competencias,92,97
+73,Mi pequeño gigante,ABP,83,90
+74,Mi pequeño gigante,ABP,77,84
+75,Mi pequeño gigante,Competencias,81,88
+76,Mi pequeño gigante,Competencias,75,82
+77,Mi pequeño gigante,ABP,87,94
+78,Mi pequeño gigante,Competencias,80,87
+79,Santa Rita,ABP,92,97
+80,Santa Rita,ABP,89,95
+81,Santa Rita,Competencias,95,100
+82,Santa Rita,Competencias,87,93
+83,Santa Rita,ABP,97,100
+84,Santa Rita,Competencias,93,98
+85,Mi pequeño gigante,ABP,84,91
+86,Mi pequeño gigante,ABP,78,85
+87,Mi pequeño gigante,Competencias,82,89
+88,Mi pequeño gigante,Competencias,76,83
+89,Mi pequeño gigante,ABP,88,95
+90,Mi pequeño gigante,Competencias,81,88
+91,Santa Rita,ABP,93,98
+92,Santa Rita,ABP,90,96
+93,Santa Rita,Competencias,96,100
+94,Santa Rita,Competencias,88,94
+95,Santa Rita,ABP,98,100
+96,Santa Rita,Competencias,94,99
+97,Mi pequeño gigante,ABP,85,92
+98,Mi pequeño gigante,ABP,79,86
+99,Mi pequeño gigante,Competencias,83,90
+100,Mi pequeño gigante,Competencias,77,84
+1,Mi pequeño gigante,A,75,82
+2,Santa Rita,A,68,79
+3,Mi pequeño gigante,B,72,85
+4,Santa Rita,B,65,78
+5,Mi pequeño gigante,A,80,88
+6,Santa Rita,B,74,82
+7,Mi pequeño gigante,A,85,90
+8,Santa Rita,A,82,88
+9,Mi pequeño gigante,B,88,92
+10,Santa Rita,B,80,86
+11,Mi pequeño gigante,A,90,94
+12,Santa Rita,B,86,91
+13,Mi pequeño gigante,A,78,84
+14,Santa Rita,B,70,75
+15,Mi pequeño gigante,A,92,96
+16,Santa Rita,A,84,89
+17,Mi pequeño gigante,B,75,80
+18,Santa Rita,A,88,93
+19,Mi pequeño gigante,A,82,87
+20,Santa Rita,B,90,95
+21,Mi pequeño gigante,A,86,91
+22,Santa Rita,B,78,83
+23,Mi pequeño gigante,B,68,73
+24,Santa Rita,A,95,98
+25,Mi pequeño gigante,A,85,90
+26,Santa Rita,B,80,85
+27,Mi pequeño gigante,B,72,77
+28,Santa Rita,A,89,94
+29,Mi pequeño gigante,A,94,98
+30,Santa Rita,B,76,81
+31,Mi pequeño gigante,A,87,91
+32,Santa Rita,B,80,84
+33,Mi pequeño gigante,B,70,74
+34,Santa Rita,A,91,95
+35,Mi pequeño gigante,A,83,87
+36,Santa Rita,A,76,80
+37,Mi pequeño gigante,B,78,82
+38,Santa Rita,A,85,89
+39,Mi pequeño gigante,B,75,79
+40,Santa Rita,B,80,84
+41,Mi pequeño gigante,A,88,92
+42,Santa Rita,A,82,86
+43,Mi pequeño gigante,B,90,94
+44,Santa Rita,A,75,79
+45,Mi pequeño gigante,A,72,76
+46,Santa Rita,B,85,89
+47,Mi pequeño gigante,B,78,82
+48,Santa Rita,A,92,96
+49,Mi pequeño gigante,A,84,88
+50,Santa Rita,B,70,74
+51,Mi pequeño gigante,B,88,92
+52,Santa Rita,A,80,84
+53,Mi pequeño gigante,A,76,80
+54,Santa Rita,B,72,76
+55,Mi pequeño gigante,B,95,98
+56,Santa Rita,A,85,89
+57,Mi pequeño gigante,A,78,82
+58,Santa Rita,B,70,74
+59,Mi pequeño gigante,A,82,86
+60,Santa Rita,B,88,92
+61,Mi pequeño gigante,A,84,88
+62,Santa Rita,A,76,80
+63,Mi pequeño gigante,B,70,74
+64,Santa Rita,B,80,84
+65,Mi pequeño gigante,A,78,82
+66,Santa Rita,A,90,94
+67,Mi pequeño gigante,A,76,80
+68,Santa Rita,B,72,76
+69,Mi pequeño gigante,B,85,89
+70,Santa Rita,A,82,86
+71,Mi pequeño gigante,B,78,82
+72,Santa Rita,B,70,74
+73,Mi pequeño gigante,A,88,92
+74,Santa Rita,A,80,84
+75,Mi pequeño gigante,B,72,76
+76,Santa Rita,A,92,96
+77,Mi pequeño gigante,A,85,89
+78,Santa Rita,B,80,84
+79,Mi pequeño gigante,A,78,82
+80,Santa Rita,B,70,74
+81,Mi pequeño gigante,B,88,92
+82,Santa Rita,A,80,84
+83,Mi pequeño gigante,A,76,80
+84,Santa Rita,B,72,76
+85,Mi pequeño gigante,B,95,98
+86,Santa Rita,A,85,89
+87,Mi pequeño gigante,A,78,82
+88,Santa Rita,B,70,74
+89,Mi pequeño gigante,A,82,86
+90,Santa Rita,B,88,92
+91,Mi pequeño gigante,A,84,88
+92,Santa Rita,A,76,80
+93,Mi pequeño gigante,B,70,74
+94,Santa Rita,B,80,84
+95,Mi pequeño gigante,A,78,82
+96,Santa Rita,A,90,94
+97,Mi pequeño gigante,A,76,80
+98,Santa Rita,B,72,76
+99,Mi pequeño gigante,B,85,89
+100,Santa Rita,A,82,86
+101,Mi pequeño gigante,A,88,92
+102,Santa Rita,A,80,84
+103,Mi pequeño gigante,B,72,76
+104,Santa Rita,B,92,96
+105,Mi pequeño gigante,A,85,89
+106,Santa Rita,B,80,84
+107,Mi pequeño gigante,A,78,82
+108,Santa Rita,A,70,74
+109,Mi pequeño gigante,B,85,89
+110,Santa Rita,B,78,82
+111,Mi pequeño gigante,A,90,94
+112,Santa Rita,B,86,91
+113,Mi pequeño gigante,A,78,84
+114,Santa Rita,B,70,75
+115,Mi pequeño gigante,A,92,96
+116,Santa Rita,A,84,89
+117,Mi pequeño gigante,B,75,80
+118,Santa Rita,A,88,93
+119,Mi pequeño gigante,A,82,87
+120,Santa Rita,B,90,95
+121,Mi pequeño gigante,A,86,91
+122,Santa Rita,B,78,83
+123,Mi pequeño gigante,B,68,73
+124,Santa Rita,A,95,98
+125,Mi pequeño gigante,A,85,90
+126,Santa Rita,B,80,85
+127,Mi pequeño gigante,B,72,77
+128,Santa Rita,A,89,94
+129,Mi pequeño gigante,A,94,98
+130,Santa Rita,B,76,81
+131,Mi pequeño gigante,A,87,91
+132,Santa Rita,B,80,84
+133,Mi pequeño gigante,B,70,74
+134,Santa Rita,A,91,95
+135,Mi pequeño gigante,A,83,87
+136,Santa Rita,A,76,80
+137,Mi pequeño gigante,B,78,82
+138,Santa Rita,A,85,89
+139,Mi pequeño gigante,B,75,79
+140,Santa Rita,B,80,84
+141,Mi pequeño gigante,A,88,92
+142,Santa Rita,A,82,86
+143,Mi pequeño gigante,B,90,94
+144,Santa Rita,A,75,79
+145,Mi pequeño gigante,A,72,76
+146,Santa Rita,B,85,89
+147,Mi pequeño gigante,B,78,82
+148,Santa Rita,A,92,96
+149,Mi pequeño gigante,A,84,88
+150,Santa Rita,B,70,74
+151,Mi pequeño gigante,B,88,92
+152,Santa Rita,A,80,84
+153,Mi pequeño gigante,A,76,80
+154,Santa Rita,B,72,76
+155,Mi pequeño gigante,B,95,98
+156,Santa Rita,A,85,89
+157,Mi pequeño gigante,A,78,82
+158,Santa Rita,B,70,74
+159,Mi pequeño gigante,A,82,86
+160,Santa Rita,B,88,92
+161,Mi pequeño gigante,A,84,88
+162,Santa Rita,A,76,80
+163,Mi pequeño gigante,B,70,74
+164,Santa Rita,B,80,84
+165,Mi pequeño gigante,A,78,82
+166,Santa Rita,A,90,94
+167,Mi pequeño gigante,A,76,80
+168,Santa Rita,B,72,76
+169,Mi pequeño gigante,B,85,89
+170,Santa Rita,A,82,86
+171,Mi pequeño gigante,B,78,82
+172,Santa Rita,B,70,74
+173,Mi pequeño gigante,A,88,92
+174,Santa Rita,A,80,84
+175,Mi pequeño gigante,B,72,76
+176,Santa Rita,A,92,96
+177,Mi pequeño gigante,A,85,89
+178,Santa Rita,B,80,84
+179,Mi pequeño gigante,A,78,82
+180,Santa Rita,B,70,74
+181,Mi pequeño gigante,B,88,92
+182,Santa Rita,A,80,84
+183,Mi pequeño gigante,A,76,80
+184,Santa Rita,B,72,76
+185,Mi pequeño gigante,B,95,98
+186,Santa Rita,A,85,89
+187,Mi pequeño gigante,A,78,82
+188,Santa Rita,B,70,74
+189,Mi pequeño gigante,A,82,86
+190,Santa Rita,B,88,92
+191,Mi pequeño gigante,A,84,88
+192,Santa Rita,A,76,80
+193,Mi pequeño gigante,B,70,74
+194,Santa Rita,B,80,84
+195,Mi pequeño gigante,A,78,82
+196,Santa Rita,A,90,94
+197,Mi pequeño gigante,A,76,80
+198,Santa Rita,B,72,76
+199,Mi pequeño gigante,B,85,89
+200,Santa Rita,A,82,86
+201,Mi pequeño gigante,A,88,92
+202,Santa Rita,A,80,84
+203,Mi pequeño gigante,B,72,76
+204,Santa Rita,B,92,96
+205,Mi pequeño gigante,A,85,89
+206,Santa Rita,B,80,84
+207,Mi pequeño gigante,A,78,82
+208,Santa Rita,A,70,74
+209,Mi pequeño gigante,B,85,89
+210,Santa Rita,B,78,82
+211,Mi pequeño gigante,A,90,94
+212,Santa Rita,B,86,91
+213,Mi pequeño gigante,A,78,84
+214,Santa Rita,B,70,75
+215,Mi pequeño gigante,A,92,96
+216,Santa Rita,A,84,89
+217,Mi pequeño gigante,B,75,80
+218,Santa Rita,A,88,93
+219,Mi pequeño gigante,A,82,87
+220,Santa Rita,B,90,95
+221,Mi pequeño gigante,A,86,91
+222,Santa Rita,B,78,83
+223,Mi pequeño gigante,B,68,73
+224,Santa Rita,A,95,98
+225,Mi pequeño gigante,A,85,90
+226,Santa Rita,B,80,85
+227,Mi pequeño gigante,B,72,77
+228,Santa Rita,A,89,94
+229,Mi pequeño gigante,A,94,98
+230,Santa Rita,B,76,81
+231,Mi pequeño gigante,A,87,91
+232,Santa Rita,B,80,84
+233,Mi pequeño gigante,B,70,74
+234,Santa Rita,A,91,95
+235,Mi pequeño gigante,A,83,87
+236,Santa Rita,A,76,80
+237,Mi pequeño gigante,B,78,82
+238,Santa Rita,A,85,89
+239,Mi pequeño gigante,B,75,79
+240,Santa Rita,B,80,84
+241,Mi pequeño gigante,A,88,92
+242,Santa Rita,A,82,86
+243,Mi pequeño gigante,B,90,94
+244,Santa Rita,A,75,79
+245,Mi pequeño gigante,A,72,76
+246,Santa Rita,B,85,89
+247,Mi pequeño gigante,B,78,82
+248,Santa Rita,A,92,96
+249,Mi pequeño gigante,A,84,88
+250,Santa Rita,B,70,74
+251,Mi pequeño gigante,B,88,92
+252,Santa Rita,A,80,84
+253,Mi pequeño gigante,A,76,80
+254,Santa Rita,B,72,76
+255,Mi pequeño gigante,B,95,98
+256,Santa Rita,A,85,89
+257,Mi pequeño gigante,A,78,82
+258,Santa Rita,B,70,74
+259,Mi pequeño gigante,A,82,86
+260,Santa Rita,B,88,92
+261,Mi pequeño gigante,A,84,88
+262,Santa Rita,A,76,80
+263,Mi pequeño gigante,B,70,74
+264,Santa Rita,B,80,84
+265,Mi pequeño gigante,A,78,82
+266,Santa Rita,A,90,94
+267,Mi pequeño gigante,A,76,80
+268,Santa Rita,B,72,76
+269,Mi pequeño gigante,B,85,89
+270,Santa Rita,A,82,86
+271,Mi pequeño gigante,B,78,82
+272,Santa Rita,B,70,74
+273,Mi pequeño gigante,A,88,92
+274,Santa Rita,A,80,84
+275,Mi pequeño gigante,B,72,76
+276,Santa Rita,A,92,96
+277,Mi pequeño gigante,A,85,89
+278,Santa Rita,B,80,84
+279,Mi pequeño gigante,A,78,82
+280,Santa Rita,B,70,74
+281,Mi pequeño gigante,B,88,92
+282,Santa Rita,A,80,84
+283,Mi pequeño gigante,A,76,80
+284,Santa Rita,B,72,76
+285,Mi pequeño gigante,B,95,98
+286,Santa Rita,A,85,89
+287,Mi pequeño gigante,A,78,82
+288,Santa Rita,B,70,74
+289,Mi pequeño gigante,A,82,86
+290,Santa Rita,B,88,92
+291,Mi pequeño gigante,A,84,88
+292,Santa Rita,A,76,80
+293,Mi pequeño gigante,B,70,74
+294,Santa Rita,B,80,84
+295,Mi pequeño gigante,A,78,82
+296,Santa Rita,A,90,94
+297,Mi pequeño gigante,A,76,80
+298,Santa Rita,B,72,76
+299,Mi pequeño gigante,B,85,89
+300,Santa Rita,A,82,86
+301,Mi pequeño gigante,B,78,82
+302,Santa Rita,B,70,74
+303,Mi pequeño gigante,A,88,92
+304,Santa Rita,A,80,84
+305,Mi pequeño gigante,B,72,76
+306,Santa Rita,A,92,96
+307,Mi pequeño gigante,A,85,89
+308,Santa Rita,B,80,84
+309,Mi pequeño gigante,A,78,82
+310,Santa Rita,B,70,74
+311,Mi pequeño gigante,B,88,92
+312,Santa Rita,A,80,84
+313,Mi pequeño gigante,A,76,80
+314,Santa Rita,B,72,76
+315,Mi pequeño gigante,B,95,98
+316,Santa Rita,A,85,89
+317,Mi pequeño gigante,A,78,82
+318,Santa Rita,B,70,74
+319,Mi pequeño gigante,A,82,86
+320,Santa Rita,B,88,92
+321,Mi pequeño gigante,A,84,88
+322,Santa Rita,A,76,80
+323,Mi pequeño gigante,B,70,74
+324,Santa Rita,B,80,84
+325,Mi pequeño gigante,A,78,82
+326,Santa Rita,A,90,94
+327,Mi pequeño gigante,A,76,80
+328,Santa Rita,B,72,76
+329,Mi pequeño gigante,B,85,89
+330,Santa Rita,A,82,86
+331,Mi pequeño gigante,B,78,82
+332,Santa Rita,B,70,74
+333,Mi pequeño gigante,A,88,92
+334,Santa Rita,A,80,84
+335,Mi pequeño gigante,B,72,76
+336,Santa Rita,A,92,96
+337,Mi pequeño gigante,A,85,89
+338,Santa Rita,B,80,84
+339,Mi pequeño gigante,A,78,82
+340,Santa Rita,B,70,74
+341,Mi pequeño gigante,B,88,92
+342,Santa Rita,A,80,84
+343,Mi pequeño gigante,A,76,80
+344,Santa Rita,B,72,76
+345,Mi pequeño gigante,B,95,98
+346,Santa Rita,A,85,89
+347,Mi pequeño gigante,A,78,82
+348,Santa Rita,B,70,74
+349,Mi pequeño gigante,A,82,86
+350,Santa Rita,B,88,92
+351,Mi pequeño gigante,A,84,88
+352,Santa Rita,A,76,80
+353,Mi pequeño gigante,B,70,74
+354,Santa Rita,B,80,84
+355,Mi pequeño gigante,A,78,82
+356,Santa Rita,A,90,94
+357,Mi pequeño gigante,A,76,80
+358,Santa Rita,B,72,76
+359,Mi pequeño gigante,B,85,89
+360,Santa Rita,A,82,86
+361,Mi pequeño gigante,B,78,82
+362,Santa Rita,B,70,74
+363,Mi pequeño gigante,A,88,92
+364,Santa Rita,A,80,84
+365,Mi pequeño gigante,B,72,76
+366,Santa Rita,A,92,96
+367,Mi pequeño gigante,A,85,89
+368,Santa Rita,B,80,84
+369,Mi pequeño gigante,A,78,82
+370,Santa Rita,B,70,74
+371,Mi pequeño gigante,B,88,92
+372,Santa Rita,A,80,84
+373,Mi pequeño gigante,A,76,80
+374,Santa Rita,B,72,76
+375,Mi pequeño gigante,B,95,98
+376,Santa Rita,A,85,89
+377,Mi pequeño gigante,A,78,82
+378,Santa Rita,B,70,74
+379,Mi pequeño gigante,A,82,86
+380,Santa Rita,B,88,92
+381,Mi pequeño gigante,A,84,88
+382,Santa Rita,A,76,80
+383,Mi pequeño gigante,B,70,74
+384,Santa Rita,B,80,84
+385,Mi pequeño gigante,A,78,82
+386,Santa Rita,A,90,94
+387,Mi pequeño gigante,A,76,80
+388,Santa Rita,B,72,76
+389,Mi pequeño gigante,B,85,89
+390,Santa Rita,A,82,86
+391,Mi pequeño gigante,B,78,82
+392,Santa Rita,B,70,74
+393,Mi pequeño gigante,A,88,92
+394,Santa Rita,A,80,84
+395,Mi pequeño gigante,B,72,76
+396,Santa Rita,A,92,96
+397,Mi pequeño gigante,A,85,89
+398,Santa Rita,B,80,84
+399,Mi pequeño gigante,A,78,82
+400,Santa Rita,B,70,74
+51,Mi pequeño gigante,ABP,68,79
+52,Mi pequeño gigante,Competencias,72,85
+53,Mi pequeño gigante,Competencias,65,78
+54,Mi pequeño gigante,ABP,80,88
+55,Mi pequeño gigante,Competencias,74,82
+56,Santa Rita,ABP,85,90
+57,Santa Rita,ABP,82,88
+58,Santa Rita,Competencias,88,92
+59,Santa Rita,Competencias,80,86
+60,Santa Rita,ABP,90,94
+61,Santa Rita,Competencias,86,91
+62,Mi pequeño gigante,ABP,78,85
+63,Mi pequeño gigante,ABP,72,80
+64,Mi pequeño gigante,Competencias,76,84
+65,Mi pequeño gigante,Competencias,70,78
+66,Mi pequeño gigante,ABP,82,90
+67,Mi pequeño gigante,Competencias,75,82
+68,Santa Rita,ABP,87,92
+69,Santa Rita,ABP,84,90
+70,Santa Rita,Competencias,90,95
+71,Santa Rita,Competencias,82,88
+72,Santa Rita,ABP,92,97
+73,Santa Rita,Competencias,88,93
+74,Mi pequeño gigante,ABP,79,86
+75,Mi pequeño gigante,ABP,73,80
+76,Mi pequeño gigante,Competencias,77,83
+77,Mi pequeño gigante,Competencias,71,79
+78,Mi pequeño gigante,ABP,83,89
+79,Mi pequeño gigante,Competencias,76,83
+80,Santa Rita,ABP,88,93
+81,Santa Rita,ABP,85,91
+82,Santa Rita,Competencias,91,96
+83,Santa Rita,Competencias,83,89
+84,Santa Rita,ABP,93,98
+85,Santa Rita,Competencias,89,94
+86,Mi pequeño gigante,ABP,80,87
+87,Mi pequeño gigante,ABP,74,81
+88,Mi pequeño gigante,Competencias,78,85
+89,Mi pequeño gigante,Competencias,72,80
+90,Mi pequeño gigante,ABP,84,91
+91,Mi pequeño gigante,Competencias,77,84
+92,Santa Rita,ABP,89,94
+93,Santa Rita,ABP,86,92
+94,Santa Rita,Competencias,92,97
+95,Santa Rita,Competencias,84,90
+96,Santa Rita,ABP,94,99
+97,Santa Rita,Competencias,90,95
+98,Mi pequeño gigante,ABP,75,82
+99,Mi pequeño gigante,ABP,68,79
+100,Mi pequeño gigante,Competencias,72,85
+101,Mi pequeño gigante,Competencias,65,78
+102,Mi pequeño gigante,ABP,80,88
+103,Mi pequeño gigante,Competencias,74,82
+104,Santa Rita,ABP,85,90
+105,Santa Rita,ABP,82,88
+106,Santa Rita,Competencias,88,92
+107,Santa Rita,Competencias,80,86
+108,Santa Rita,ABP,90,94
+109,Santa Rita,Competencias,86,91
+110,Mi pequeño gigante,ABP,78,85
+111,Mi pequeño gigante,ABP,72,80
+112,Mi pequeño gigante,Competencias,76,84
+113,Mi pequeño gigante,Competencias,70,78
+114,Mi pequeño gigante,ABP,82,90
+115,Mi pequeño gigante,Competencias,75,82
+116,Santa Rita,ABP,87,92
+117,Santa Rita,ABP,84,90
+118,Santa Rita,Competencias,90,95
+119,Santa Rita,Competencias,82,88
+120,Santa Rita,ABP,92,97
+121,Santa Rita,Competencias,88,93
+122,Mi pequeño gigante,ABP,79,86
+123,Mi pequeño gigante,ABP,73,80
+124,Mi pequeño gigante,Competencias,77,83
+124,Mi pequeño gigante,Competencias,77,83
+125,Mi pequeño gigante,Competencias,71,79
+126,Mi pequeño gigante,ABP,83,89
+127,Mi pequeño gigante,Competencias,76,83
+128,Santa Rita,ABP,88,93
+129,Santa Rita,ABP,85,91
+130,Santa Rita,Competencias,91,96
+131,Santa Rita,Competencias,83,89
+132,Santa Rita,ABP,93,98
+133,Santa Rita,Competencias,89,94
+134,Mi pequeño gigante,ABP,80,87
+135,Mi pequeño gigante,ABP,74,81
+136,Mi pequeño gigante,Competencias,78,85
+137,Mi pequeño gigante,Competencias,72,80
+138,Mi pequeño gigante,ABP,84,91
+139,Mi pequeño gigante,Competencias,77,84
+140,Santa Rita,ABP,89,94
+141,Santa Rita,ABP,86,92
+142,Santa Rita,Competencias,92,97
+143,Santa Rita,Competencias,84,90
+144,Santa Rita,ABP,94,99
+145,Santa Rita,Competencias,90,95
+146,Mi pequeño gigante,ABP,75,82
+147,Mi pequeño gigante,ABP,68,79
+148,Mi pequeño gigante,Competencias,72,85
+149,Mi pequeño gigante,Competencias,65,78
+150,Mi pequeño gigante,ABP,80,88
+151,Mi pequeño gigante,Competencias,74,82
+152,Santa Rita,ABP,85,90
+153,Santa Rita,ABP,82,88
+154,Santa Rita,Competencias,88,92
+155,Santa Rita,Competencias,80,86
+156,Santa Rita,ABP,90,94
+157,Santa Rita,Competencias,86,91
+158,Mi pequeño gigante,ABP,78,85
+159,Mi pequeño gigante,ABP,72,80
+160,Mi pequeño gigante,Competencias,76,84
+161,Mi pequeño gigante,Competencias,70,78
+162,Mi pequeño gigante,ABP,82,90
+163,Mi pequeño gigante,Competencias,75,82
+164,Santa Rita,ABP,87,92
+165,Santa Rita,ABP,84,90
+166,Santa Rita,Competencias,90,95
+167,Santa Rita,Competencias,82,88
+168,Santa Rita,ABP,92,97
+169,Santa Rita,Competencias,88,93
+170,Mi pequeño gigante,ABP,79,86
+171,Mi pequeño gigante,ABP,73,80
+172,Mi pequeño gigante,Competencias,77,83
+173,Mi pequeño gigante,Competencias,71,79
+174,Mi pequeño gigante,ABP,83,89
+175,Mi pequeño gigante,Competencias,76,83
+176,Santa Rita,ABP,88,93
+177,Santa Rita,ABP,85,91
+178,Santa Rita,Competencias,91,96
+179,Santa Rita,Competencias,83,89
+180,Santa Rita,ABP,93,98
+181,Santa Rita,Competencias,89,94
+182,Mi pequeño gigante,ABP,80,87
+183,Mi pequeño gigante,ABP,74,81
+184,Mi pequeño gigante,Competencias,78,85
+185,Mi pequeño gigante,Competencias,72,80
+186,Mi pequeño gigante,ABP,84,91
+187,Mi pequeño gigante,Competencias,77,84
+188,Santa Rita,ABP,89,94
+189,Santa Rita,ABP,86,92
+190,Santa Rita,Competencias,92,97
+191,Santa Rita,Competencias,84,90
+192,Santa Rita,ABP,94,99
+193,Santa Rita,Competencias,90,95
+194,Mi pequeño gigante,ABP,75,82
+195,Mi pequeño gigante,ABP,68,79
+196,Mi pequeño gigante,Competencias,72,85
+197,Mi pequeño gigante,Competencias,65,78
+198,Mi pequeño gigante,ABP,80,88
+199,Mi pequeño gigante,Competencias,74,82
+200,Santa Rita,ABP,85,90
+74,Mi pequeño gigante,ABP,77,84
+75,Mi pequeño gigante,Competencias,81,88
+76,Mi pequeño gigante,Competencias,75,82
+77,Mi pequeño gigante,ABP,87,94
+78,Mi pequeño gigante,Competencias,80,87
+79,Santa Rita,ABP,92,97
+80,Santa Rita,ABP,89,95
+81,Santa Rita,Competencias,95,100
+82,Santa Rita,Competencias,87,93
+83,Santa Rita,ABP,97,100
+84,Santa Rita,Competencias,93,98
+85,Mi pequeño gigante,ABP,84,91
+86,Mi pequeño gigante,ABP,78,85
+87,Mi pequeño gigante,Competencias,82,89
+88,Mi pequeño gigante,Competencias,76,83
+89,Mi pequeño gigante,ABP,88,95
+90,Mi pequeño gigante,Competencias,81,88
+91,Santa Rita,ABP,93,98
+92,Santa Rita,ABP,90,96
+93,Santa Rita,Competencias,96,100
+94,Santa Rita,Competencias,88,94
+95,Santa Rita,ABP,98,100
+96,Santa Rita,Competencias,94,99
+97,Mi pequeño gigante,ABP,85,92
+98,Mi pequeño gigante,ABP,79,86
+99,Mi pequeño gigante,Competencias,83,90
+100,Mi pequeño gigante,Competencias,77,84
+1,Mi pequeño gigante,A,75,82
+2,Santa Rita,A,68,79
+3,Mi pequeño gigante,B,72,85
+4,Santa Rita,B,65,78
+5,Mi pequeño gigante,A,80,88
+6,Santa Rita,B,74,82
+7,Mi pequeño gigante,A,85,90
+8,Santa Rita,A,82,88
+9,Mi pequeño gigante,B,88,92
+10,Santa Rita,B,80,86
+11,Mi pequeño gigante,A,90,94
+12,Santa Rita,B,86,91
+13,Mi pequeño gigante,A,78,84
+14,Santa Rita,B,70,75
+15,Mi pequeño gigante,A,92,96
+16,Santa Rita,A,84,89
+17,Mi pequeño gigante,B,75,80
+18,Santa Rita,A,88,93
+19,Mi pequeño gigante,A,82,87
+20,Santa Rita,B,90,95
+21,Mi pequeño gigante,A,86,91
+22,Santa Rita,B,78,83
+23,Mi pequeño gigante,B,68,73
+24,Santa Rita,A,95,98
+25,Mi pequeño gigante,A,85,90
+26,Santa Rita,B,80,85
+27,Mi pequeño gigante,B,72,77
+28,Santa Rita,A,89,94
+29,Mi pequeño gigante,A,94,98
+30,Santa Rita,B,76,81
+31,Mi pequeño gigante,A,87,91
+32,Santa Rita,B,80,84
+33,Mi pequeño gigante,B,70,74
+34,Santa Rita,A,91,95
+35,Mi pequeño gigante,A,83,87
+36,Santa Rita,A,76,80
+37,Mi pequeño gigante,B,78,82
+38,Santa Rita,A,85,89
+39,Mi pequeño gigante,B,75,79
+40,Santa Rita,B,80,84
+41,Mi pequeño gigante,A,88,92
+42,Santa Rita,A,82,86
+43,Mi pequeño gigante,B,90,94
+44,Santa Rita,A,75,79
+45,Mi pequeño gigante,A,72,76
+46,Santa Rita,B,85,89
+47,Mi pequeño gigante,B,78,82
+48,Santa Rita,A,92,96
+49,Mi pequeño gigante,A,84,88
+50,Santa Rita,B,70,74
+51,Mi pequeño gigante,B,88,92
+52,Santa Rita,A,80,84
+53,Mi pequeño gigante,A,76,80
+54,Santa Rita,B,72,76
+55,Mi pequeño gigante,B,95,98
+56,Santa Rita,A,85,89
+57,Mi pequeño gigante,A,78,82
+58,Santa Rita,B,70,74
+59,Mi pequeño gigante,A,82,86
+60,Santa Rita,B,88,92
+61,Mi pequeño gigante,A,84,88
+62,Santa Rita,A,76,80
+63,Mi pequeño gigante,B,70,74
+64,Santa Rita,B,80,84
+65,Mi pequeño gigante,A,78,82
+66,Santa Rita,A,90,94
+67,Mi pequeño gigante,A,76,80
+68,Santa Rita,B,72,76
+69,Mi pequeño gigante,B,85,89
+70,Santa Rita,A,82,86
+71,Mi pequeño gigante,B,78,82
+72,Santa Rita,B,70,74
+73,Mi pequeño gigante,A,88,92
+74,Santa Rita,A,80,84
+75,Mi pequeño gigante,B,72,76
+76,Santa Rita,A,92,96
+77,Mi pequeño gigante,A,85,89
+78,Santa Rita,B,80,84
+79,Mi pequeño gigante,A,78,82
+80,Santa Rita,B,70,74
+81,Mi pequeño gigante,B,88,92
+82,Santa Rita,A,80,84
+83,Mi pequeño gigante,A,76,80
+84,Santa Rita,B,72,76
+85,Mi pequeño gigante,B,95,98
+86,Santa Rita,A,85,89
+87,Mi pequeño gigante,A,78,82
+88,Santa Rita,B,70,74
+89,Mi pequeño gigante,A,82,86
+90,Santa Rita,B,88,92
+91,Mi pequeño gigante,A,84,88
+92,Santa Rita,A,76,80
+93,Mi pequeño gigante,B,70,74
+94,Santa Rita,B,80,84
+95,Mi pequeño gigante,A,78,82
+96,Santa Rita,A,90,94
+97,Mi pequeño gigante,A,76,80
+98,Santa Rita,B,72,76
+99,Mi pequeño gigante,B,85,89
+100,Santa Rita,A,82,86
+101,Mi pequeño gigante,A,88,92
+102,Santa Rita,A,80,84
+103,Mi pequeño gigante,B,72,76
+104,Santa Rita,B,92,96
+105,Mi pequeño gigante,A,85,89
+106,Santa Rita,B,80,84
+107,Mi pequeño gigante,A,78,82
+108,Santa Rita,A,70,74
+109,Mi pequeño gigante,B,85,89
+110,Santa Rita,B,78,82
+111,Mi pequeño gigante,A,90,94
+112,Santa Rita,B,86,91
+113,Mi pequeño gigante,A,78,84
+114,Santa Rita,B,70,75
+115,Mi pequeño gigante,A,92,96
+116,Santa Rita,A,84,89
+117,Mi pequeño gigante,B,75,80
+118,Santa Rita,A,88,93
+119,Mi pequeño gigante,A,82,87
+120,Santa Rita,B,90,95
+121,Mi pequeño gigante,A,86,91
+122,Santa Rita,B,78,83
+123,Mi pequeño gigante,B,68,73
+124,Santa Rita,A,95,98
+125,Mi pequeño gigante,A,85,90
+126,Santa Rita,B,80,85
+127,Mi pequeño gigante,B,72,77
+128,Santa Rita,A,89,94
+129,Mi pequeño gigante,A,94,98
+130,Santa Rita,B,76,81
+131,Mi pequeño gigante,A,87,91
+132,Santa Rita,B,80,84
+133,Mi pequeño gigante,B,70,74
+134,Santa Rita,A,91,95
+135,Mi pequeño gigante,A,83,87
+136,Santa Rita,A,76,80
+137,Mi pequeño gigante,B,78,82
+138,Santa Rita,A,85,89
+139,Mi pequeño gigante,B,75,79
+140,Santa Rita,B,80,84
+141,Mi pequeño gigante,A,88,92
+142,Santa Rita,A,82,86
+143,Mi pequeño gigante,B,90,94
+144,Santa Rita,A,75,79
+145,Mi pequeño gigante,A,72,76
+146,Santa Rita,B,85,89
+147,Mi pequeño gigante,B,78,82
+148,Santa Rita,A,92,96
+149,Mi pequeño gigante,A,84,88
+150,Santa Rita,B,70,74
+151,Mi pequeño gigante,B,88,92
+152,Santa Rita,A,80,84
+2,Mi pequeño gigante,ABP,68,79
+3,Mi pequeño gigante,Competencias,72,85
+4,Mi pequeño gigante,Competencias,65,78
+5,Mi pequeño gigante,ABP,80,88
+6,Mi pequeño gigante,Competencias,74,82
+7,Santa Rita,ABP,85,90
+8,Santa Rita,ABP,82,88
+9,Santa Rita,Competencias,88,92
+10,Santa Rita,Competencias,80,86
+11,Santa Rita,ABP,90,94
+12,Santa Rita,Competencias,86,91
+13,Mi pequeño gigante,ABP,78,85
+14,Mi pequeño gigante,ABP,72,80
+15,Mi pequeño gigante,Competencias,76,84
+16,Mi pequeño gigante,Competencias,70,78
+17,Mi pequeño gigante,ABP,82,90
+18,Mi pequeño gigante,Competencias,75,82
+19,Santa Rita,ABP,87,92
+20,Santa Rita,ABP,84,90
+21,Santa Rita,Competencias,90,95
+22,Santa Rita,Competencias,82,88
+23,Santa Rita,ABP,92,97
+24,Santa Rita,Competencias,88,93
+25,Mi pequeño gigante,ABP,79,86
+26,Mi pequeño gigante,ABP,73,80
+27,Mi pequeño gigante,Competencias,77,83
+28,Mi pequeño gigante,Competencias,71,79
+29,Mi pequeño gigante,ABP,83,89
+30,Mi pequeño gigante,Competencias,76,83
+31,Santa Rita,ABP,88,93
+32,Santa Rita,ABP,85,91
+33,Santa Rita,Competencias,91,96
+34,Santa Rita,Competencias,83,89
+35,Santa Rita,ABP,93,98
+36,Santa Rita,Competencias,89,94
+37,Mi pequeño gigante,ABP,80,87
+38,Mi pequeño gigante,ABP,74,81
+39,Mi pequeño gigante,Competencias,78,85
+40,Mi pequeño gigante,Competencias,72,80
+41,Mi pequeño gigante,ABP,84,91
+42,Mi pequeño gigante,Competencias,77,84
+43,Santa Rita,ABP,89,94
+44,Santa Rita,ABP,86,92
+45,Santa Rita,Competencias,92,97
+46,Santa Rita,Competencias,84,90
+47,Santa Rita,ABP,94,99
+48,Santa Rita,Competencias,90,95
+49,Mi pequeño gigante,ABP,81,88
+50,Mi pequeño gigante,ABP,75,82
+51,Mi pequeño gigante,Competencias,79,86
+52,Mi pequeño gigante,Competencias,73,81
+53,Mi pequeño gigante,ABP,85,92
+54,Mi pequeño gigante,Competencias,78,85
+55,Santa Rita,ABP,90,95
+56,Santa Rita,ABP,87,93
+57,Santa Rita,Competencias,93,98
+58,Santa Rita,Competencias,85,91
+59,Santa Rita,ABP,95,100
+60,Santa Rita,Competencias,91,96
+61,Mi pequeño gigante,ABP,82,89
+62,Mi pequeño gigante,ABP,76,83
+63,Mi pequeño gigante,Competencias,80,87
+64,Mi pequeño gigante,Competencias,74,82
+65,Mi pequeño gigante,ABP,86,93
+66,Mi pequeño gigante,Competencias,79,86
+67,Santa Rita,ABP,91,96
+68,Santa Rita,ABP,88,94
+69,Santa Rita,Competencias,94,99
+70,Santa Rita,Competencias,86,92
+71,Santa Rita,ABP,96,100
+72,Santa Rita,Competencias,92,97
+73,Mi pequeño gigante,ABP,83,90
+74,Mi pequeño gigante,ABP,77,84
+75,Mi pequeño gigante,Competencias,81,88
+76,Mi pequeño gigante,Competencias,75,82
+77,Mi pequeño gigante,ABP,87,94
+78,Mi pequeño gigante,Competencias,80,87
+79,Santa Rita,ABP,92,97
+80,Santa Rita,ABP,89,95
+81,Santa Rita,Competencias,95,100
+82,Santa Rita,Competencias,87,93
+83,Santa Rita,ABP,97,100
+84,Santa Rita,Competencias,93,98
+85,Mi pequeño gigante,ABP,84,91
+86,Mi pequeño gigante,ABP,78,85
+87,Mi pequeño gigante,Competencias,82,89
+88,Mi pequeño gigante,Competencias,76,83
+89,Mi pequeño gigante,ABP,88,95
+90,Mi pequeño gigante,Competencias,81,88
+91,Santa Rita,ABP,93,98
+92,Santa Rita,ABP,90,96
+93,Santa Rita,Competencias,96,100
+94,Santa Rita,Competencias,88,94
+95,Santa Rita,ABP,98,100
+96,Santa Rita,Competencias,94,99
+97,Mi pequeño gigante,ABP,85,92
+98,Mi pequeño gigante,ABP,79,86
+99,Mi pequeño gigante,Competencias,83,90
+100,Mi pequeño gigante,Competencias,77,84
+1,Mi pequeño gigante,A,75,82
+2,Santa Rita,A,68,79
+3,Mi pequeño gigante,B,72,85
+4,Santa Rita,B,65,78
+5,Mi pequeño gigante,A,80,88
+6,Santa Rita,B,74,82
+7,Mi pequeño gigante,A,85,90
+8,Santa Rita,A,82,88
+9,Mi pequeño gigante,B,88,92
+10,Santa Rita,B,80,86
+11,Mi pequeño gigante,A,90,94
+12,Santa Rita,B,86,91
+13,Mi pequeño gigante,A,78,84
+14,Santa Rita,B,70,75
+15,Mi pequeño gigante,A,92,96
+16,Santa Rita,A,84,89
+17,Mi pequeño gigante,B,75,80
+18,Santa Rita,A,88,93
+19,Mi pequeño gigante,A,82,87
+20,Santa Rita,B,90,95
+21,Mi pequeño gigante,A,86,91
+22,Santa Rita,B,78,83
+23,Mi pequeño gigante,B,68,73
+24,Santa Rita,A,95,98
+25,Mi pequeño gigante,A,85,90
+26,Santa Rita,B,80,85
+27,Mi pequeño gigante,B,72,77
+28,Santa Rita,A,89,94
+29,Mi pequeño gigante,A,94,98
+30,Santa Rita,B,76,81
+31,Mi pequeño gigante,A,87,91
+32,Santa Rita,B,80,84
+33,Mi pequeño gigante,B,70,74
+34,Santa Rita,A,91,95
+35,Mi pequeño gigante,A,83,87
+36,Santa Rita,A,76,80
+37,Mi pequeño gigante,B,78,82
+38,Santa Rita,A,85,89
+39,Mi pequeño gigante,B,75,79
+40,Santa Rita,B,80,84
+41,Mi pequeño gigante,A,88,92
+42,Santa Rita,A,82,86
+43,Mi pequeño gigante,B,90,94
+44,Santa Rita,A,75,79
+45,Mi pequeño gigante,A,72,76
+46,Santa Rita,B,85,89
+47,Mi pequeño gigante,B,78,82
+48,Santa Rita,A,92,96
+49,Mi pequeño gigante,A,84,88
+50,Santa Rita,B,70,74
+51,Mi pequeño gigante,B,88,92
+52,Santa Rita,A,80,84
+53,Mi pequeño gigante,A,76,80
+54,Santa Rita,B,72,76
+55,Mi pequeño gigante,B,95,98
+56,Santa Rita,A,85,89
+57,Mi pequeño gigante,A,78,82
+58,Santa Rita,B,70,74
+59,Mi pequeño gigante,A,82,86
+60,Santa Rita,B,88,92
+61,Mi pequeño gigante,A,84,88
+62,Santa Rita,A,76,80
+63,Mi pequeño gigante,B,70,74
+64,Santa Rita,B,80,84
+65,Mi pequeño gigante,A,78,82
+66,Santa Rita,A,90,94
+67,Mi pequeño gigante,A,76,80
+68,Santa Rita,B,72,76
+69,Mi pequeño gigante,B,85,89
+70,Santa Rita,A,82,86
+71,Mi pequeño gigante,B,78,82
